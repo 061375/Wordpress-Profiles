@@ -31,6 +31,8 @@ function jah_staff_profiles($args) {
     ) 
   );
 
+  $return = '';
+
   if(false !== $accordion) $return = '<h3 class="showhidden">'.$title.'</h3><div class="ahidden">';
   
   foreach ($posts as $key => $value) {
