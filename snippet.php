@@ -1,3 +1,4 @@
+<?php
 /*** 
  * Staff profiles snippet
  * @author Jeremy Heminger j.heminger13@gmail.com
